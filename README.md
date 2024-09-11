@@ -5,7 +5,6 @@
 Проектирую проверки, тестирую web, mobile и API приложения.
 Занимаюсь ручным и автоматизированным тестированием.
 
-⚡
 ### Работала с инструментами:
 <p align="left"> 
   <a href="https://www.drawio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/25e7af86-e713-4d4c-885e-6c4ad1d8b76d" width="36" height="36" alt="Draw.io" /></a>
